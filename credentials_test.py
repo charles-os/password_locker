@@ -9,7 +9,7 @@ class TestCredentials(unittest.TestCase):
         """
         Setup method that defines instructions
         """
-        self.new_credentials = Credentials("Github","Kibet1816","@#soccerkibe1816")
+        self.new_credentials = Credentials("katatracker","moringaschool","school@#ag")
 
     def tearDown(self):
         """
@@ -21,9 +21,9 @@ class TestCredentials(unittest.TestCase):
         """
         Test for correct initialization
         """
-        self.assertEqual(self.new_credentials.account_name,"Github")
-        self.assertEqual(self.new_credentials.username,"Kibet1816")
-        self.assertEqual(self.new_credentials.password,"@#soccerkibe1816")
+        self.assertEqual(self.new_credentials.account_name,"katatracker")
+        self.assertEqual(self.new_credentials.username,"moringaschool")
+        self.assertEqual(self.new_credentials.password,"school@#ag")
 
     def test_save_credentials(self):
         """

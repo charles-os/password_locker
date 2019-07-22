@@ -59,7 +59,7 @@ def main():
     
         short_code = input().lower()
 
-        if short_code == '':
+        if short_code == 'li':
 
             print('Login')
             print('*'*15)

@@ -1,4 +1,9 @@
 
+
+## Authors
+
+This program was written by [Charles Osoro](https://github.com/charles-os)
+
 ## Setup and usage instructions
 
 - Clone this repository from https://github.com/charles-os/password_locker.git
@@ -10,6 +15,7 @@
 
 Technologies used to write the application are:
 - Python
+
 
 
 #### License and copyright information

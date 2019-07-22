@@ -59,7 +59,7 @@ def main():
     
         short_code = input().lower()
 
-        if short_code == 'in':
+        if short_code == '':
 
             print('Login')
             print('*'*15)
@@ -78,7 +78,7 @@ def main():
             
             while True:
 
-                print(f"Welcome {firstname}.Use the following commands: ca-Create a new account :da - Display all accounts :dl - Delete an account :out - Log out ")
+                print(f"Welcome {firstname}.Use the following commands: ca-Create a new account :da - Display all accounts :dl - Delete an account :lo - Log out ")
                 print('\n')
                 shorter_code = input().lower()
 

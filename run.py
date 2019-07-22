@@ -124,7 +124,7 @@ def main():
                     pass
 
                 elif shorter_code == 'lo':
-                    print('Thank you for using this app :)')
+                    print('Thank you for using this app. if you like this application kindly follow me on github charles-os :)')
                     break
 
                 else:
@@ -132,7 +132,7 @@ def main():
                     print('-'*8)
 
         elif short_code == 'ex':
-            print("Hope you enjoyed the application.")
+            print("Hope you enjoyed the application. kindly follow me on github charles-os for more projects")
             break
 
 

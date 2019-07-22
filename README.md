@@ -16,7 +16,8 @@ This program was written by [Charles Osoro](https://github.com/charles-os)
 Technologies used to write the application are:
 - Python
 
-
+## Known bugs and malfunctions
+thisbapplication does not contain bugs but if you find any feel free to contact me.
 
 #### License and copyright information
 

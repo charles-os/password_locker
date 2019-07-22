@@ -18,3 +18,8 @@ def save_user(user):
     Function to save user login details
     """
     user.save_user()
+def save_credential(account):
+    """
+    Function to save account details
+    """
+    account.save_credentials()

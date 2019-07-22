@@ -82,7 +82,7 @@ def main():
                 print('\n')
                 shorter_code = input().lower()
 
-                if shorter_code == 'sv':
+                if shorter_code == 'ca':
                     print("Save new account credentials")
                     print('^'*10)
 
